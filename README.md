@@ -11,3 +11,4 @@ I put here links that I find interesting and useful and that may come in handy o
 * [What is DevOps?](docs/devops.md)
 * [Git](docs/git.md)
 * [Python](docs/python.md)
+* [People management](docs/management.md)
