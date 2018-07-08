@@ -1,6 +1,10 @@
 # DevOps Links
 
-Topics:
+## What this repo is all about?
+
+I put here links that I find interesting and useful and that may come in handy one day.
+
+## Topics
 
 * [Secret Management](docs/secret-management.md)
 * [OAuth](docs/oauth.md)
