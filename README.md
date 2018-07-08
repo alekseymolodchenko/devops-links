@@ -9,3 +9,4 @@ I put here links that I find interesting and useful and that may come in handy o
 * [Secret Management](docs/secret-management.md)
 * [OAuth](docs/oauth.md)
 * [What is DevOps?](docs/devops.md)
+* [Git](docs/git.md)
