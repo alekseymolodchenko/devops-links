@@ -13,3 +13,4 @@ I put here links that I find interesting and useful and that may come in handy o
 * [Python](docs/python.md)
 * [People management](docs/management.md)
 * [Nginx](docs/nginx.md)
+* [Chrome](docs/chrome.md)
