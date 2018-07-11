@@ -15,3 +15,5 @@ I put here links that I find interesting and useful and that may come in handy o
 * [Nginx](docs/nginx.md)
 * [Chrome](docs/chrome.md)
 * [Docker](docs/docker.md)
+* [AWS](docs/aws.md)
+* [Health check](docs/healthcheck.md)
