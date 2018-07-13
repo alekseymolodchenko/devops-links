@@ -17,5 +17,6 @@ I put here links that I find interesting and useful and that may come in handy o
 * [Docker](docs/docker.md)
 * [AWS](docs/aws.md)
 * [Health check](docs/healthcheck.md)
-* [Web Architecture](web-architecture.md)
-* [ML](ml.md)
+* [Web Architecture](docs/web-architecture.md)
+* [ML](docs/ml.md)
+* [VPN](docs/vpn.md)
