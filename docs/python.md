@@ -5,3 +5,5 @@
 * [The Pythonic Guide To Logging](https://timber.io/blog/the-pythonic-guide-to-logging/)
 
 * [https://realpython.com/primer-on-python-decorators/](https://realpython.com/primer-on-python-decorators/)
+
+* [Sampling profiler for Python programs](https://github.com/benfred/py-spy)
