@@ -21,3 +21,4 @@ I put here links that I find interesting and useful and that may come in handy o
 * [ML](docs/ml.md)
 * [VPN](docs/vpn.md)
 * [Prometheus](docs/prometheus.md)
+* [Job Interview](docs/job-interview.md)
